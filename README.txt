@@ -1,4 +1,4 @@
-USBCCD pro "WeAct BlackPill STM32F411CEU6".
+USBCCD pro "WA BlackPill STM32F411CEU6".
 
 Zkompilovani, do bootloaderu (nahravani programu) se leze pres boot+drzeni_boot_+zmackunti_rest+pusteni boot:
 	make clean && make -j$(nproc)
